@@ -11,7 +11,7 @@ from Menu import Menus
 class Login:
 
     def facial(self):
-        ruta = "C:\\Users\\jorge\\Desktop\\Inicio\\UTH\\2024\\2-2024\\AVANZADA_II\\II_P\\ControladorReconocimientoFacial\\.venv\\Clases\\Empleados"  # Carpeta donde se encuentran las fotos de los empleados
+        ruta = "C:\\Users\\angel\\Desktop\\Inicio\\UTH\\2024\\2-2024\\AVANZADA_II\\II_P\\ControladorReconocimientoFacial\\.venv\\Clases\\Empleados"  # Carpeta donde se encuentran las fotos de los empleados
 
         # Muestra las instrucciones de inicio de sesión
         Instrucciones.ins_facial()
